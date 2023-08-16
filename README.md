@@ -15,7 +15,7 @@
 12. **Make the repo remote**: `git remote add new-auto-deployment https://github.com/$GITHUB_USERNAME/$NEW_REPOSITORY_NAME.git`
 13. **Push the code to your remote repo**: `git push new-auto-deployment main`
 
-## Full Script
+## Full Script...
 
 ```bash
 #!/bin/bash
