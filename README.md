@@ -1,7 +1,5 @@
 # Automated Way To Download Source Code and Upload to Your Personal Repo
 
-# Download Source Code and Upload to Your Personal Repo
-
 1. **Install gh**: `sudo snap install gh`
 2. **Set login credentials**: `gh auth login`
    - choose github.com & https
