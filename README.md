@@ -27,4 +27,11 @@ cd c4_deployment-1
 gh repo create $NEW_REPOSITORY_NAME --public
 git remote add new-auto-deployment https://github.com/$GITHUB_USERNAME/$NEW_REPOSITORY_NAME.git
 git push new-auto-deployment main
+```
+
+# ToDo:
+<aside>
+✅ Automate applicatoion to Beanstalk deployment
+
+</aside>
 
